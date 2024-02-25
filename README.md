@@ -6,7 +6,7 @@
 
 2. Gesti&oacute;n de Equipos
 
-3. Ejecuci&oacte;n y Estadisticas
+3. Ejecuci&oacute;n y Estadisticas
 
 
 ### Ejecucion
