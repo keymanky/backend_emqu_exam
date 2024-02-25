@@ -29,7 +29,7 @@
         docker run -p 4321:4321 backend_emqu_exam_jsm
 ```
 
-3. Or run with virtual environment
+3. O correlo con with virtual environment, version de python 3.10 
 
 ```
         python -m venv venv/
