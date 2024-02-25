@@ -22,14 +22,14 @@
         mv env.env .env
 ```
 
-3. Run with Docker dentro del projecto
+3. Corre Docker dentro del projecto
 
 ```
         docker build -t backend_emqu_exam_jsm .
         docker run -p 4321:4321 backend_emqu_exam_jsm
 ```
 
-3. O correlo con with virtual environment, version de python 3.10 
+3. O correlo con virtual environment, version de python 3.10 
 
 ```
         python -m venv venv/
@@ -51,4 +51,4 @@ Linux/Mac OS
         python app.py
 ```
 
-3. Por ultimo prueba los request de la coleccion de postman enviada
+4. Por ultimo prueba los request de la coleccion de postman enviada
