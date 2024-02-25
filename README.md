@@ -51,4 +51,4 @@ Linux/Mac OS
         python app.py
 ```
 
-3. Test API, for example import Collation in postman
+3. Por ultimo prueba los request de la coleccion de postman enviada
