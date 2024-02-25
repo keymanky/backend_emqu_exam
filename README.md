@@ -16,15 +16,16 @@
 ```
         git clone https://github.com/keymanky/backend_emqu_exam
 ```
+2. Renombra el archivo env.env a .env
 
-2. Run with Docker
+3. Run with Docker
 
 ```
         docker build -t backend_emqu_exam_jsm .
         docker run -p 4321:4321 backend_emqu_exam_jsm
 ```
 
-2. Or run with virtual environment
+3. Or run with virtual environment
 
 ```
         python -m venv venv/
