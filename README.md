@@ -16,9 +16,13 @@
 ```
         git clone https://github.com/keymanky/backend_emqu_exam
 ```
-2. Renombra el archivo env.env a .env es decir que empiece en PUNTO es un archivo oculto ".env"
+2. Renombra el archivo env.env a .env es decir que empiece en PUNTO es un archivo oculto ".env" si usas linux dentro del proyecto puedes usar:
 
-3. Run with Docker
+```
+        mv env.env .env
+```
+
+3. Run with Docker dentro del projecto
 
 ```
         docker build -t backend_emqu_exam_jsm .
