@@ -11,7 +11,7 @@
 
 ### Ejecucion
 
-1. Clone the repository
+1. Clona el repositorio
 
 ```
         git clone https://github.com/keymanky/backend_emqu_exam
